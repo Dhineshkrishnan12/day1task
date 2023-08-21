@@ -1,3 +1,4 @@
+0. start
 1. Fill up the kettle with water
 2. Boil the kettle
 3. Place a teabag in your favourite mug
@@ -8,3 +9,4 @@
 8. Add sugar
 9. Stir the tea
 10.Enjoy
+11.finish
